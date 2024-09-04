@@ -1,5 +1,5 @@
 # AAC-OverLookk
-Advanced Auto Clicker by [@overlookk](https://github.com/overlookk) on GitHub
+Advanced Auto Clicker by: [@overlookk](https://github.com/overlookk) on GitHub
 
 **AAC-OverLookk** is a lightweight and highly customizable auto-clicker, designed to automate mouse clicks with precision and simplicity.
 
